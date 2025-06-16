@@ -3,7 +3,6 @@ import Link from "next/link";
 import { FaFacebook, FaInstagram } from "react-icons/fa6";
 import { MdOutlinePhone } from "react-icons/md";
 import { TfiEmail } from "react-icons/tfi";
-
 export default function Footer() {
   const [isMobile, setIsMobile] = useState(false);
 

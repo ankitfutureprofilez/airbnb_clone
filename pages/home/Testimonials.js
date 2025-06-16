@@ -49,6 +49,7 @@ export default function Testimonials() {
               delay: 2000,
               disableOnInteraction: false,
             }}
+            
             loop={true}
             pagination={{
               clickable: true,
