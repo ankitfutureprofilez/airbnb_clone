@@ -48,7 +48,7 @@ export default function Footer() {
                   <div className="flex mt-2 justify-center xl:justify-start">
                     <a
                       className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] flex justify-center md:justify-start"
-                      href="tel:+919521410122"
+                      href="tel:+918574961244"
                     >
                       <MdOutlinePhone
                         className="mt-[2px]"
@@ -56,16 +56,16 @@ export default function Footer() {
                         color={"#3F2A17"}
                       />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] ">
-                        : +91 9521410122
+                        : +91 8574961244
                       </span>
                     </a>
                     &nbsp;/&nbsp;
                     <a
                       className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] "
-                      href="tel:+919314022666"
+                      href="tel:+918574961230"
                     >
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px]">
-                        +91 9314022666
+                        +91 8574961230
                       </span>
                     </a>
                   </div>
@@ -95,7 +95,7 @@ export default function Footer() {
                 <div className="w-[80px] h-[2px] mx-auto xl:mx-[0] bg-[#efa3a3] mb-[15px]"></div>
                 <div className="">
                   <a
-                    href="https://www.facebook.com/share/64gvciqN2UNPMx6V/?mibextid=LQQJ4d"
+                    href="https://www.facebook.com/"
                     target="_blank"
                   >
                     <div className="flex justify-center xl:justify-start">
@@ -108,13 +108,13 @@ export default function Footer() {
                 </div>
                 <div className="mt-2">
                   <a
-                    href="https://www.instagram.com/quaintspacesjaipur/"
+                    href="https://www.instagram.com//"
                     target="_blank"
                   >
                     <div className="flex justify-center xl:justify-start">
                       <FaInstagram color={"#3F2A17"} size={24} />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] ml-2">
-                        : @quaintspacesjaipur
+                        : @airbnbclone
                       </span>
                     </div>
                   </a>
@@ -142,8 +142,10 @@ export default function Footer() {
               <span>&copy; Airbnb Clone  Jaipur, 2024</span>
               <div className="justify-center flex">
                 <span className="text-[#3F2A17] !text-[10px] !lg:text-[14px] !xl:text-[16px] ">
-                  D-105, Golden Oak, Devi Marg, Bani Park, Jaipur, Rajasthan
-                  302016
+                 Flat No. 3B, Sunrises Residency
+                  shipra Path,
+                  Jaipur, Rajasthan – 302001
+                  India
                 </span>
               </div>
             </div>
@@ -263,8 +265,8 @@ export default function Footer() {
               <span>&copy; Airbnb Clone Jaipur, 2024</span>
               <div className="justify-center flex">
                 <span className="text-[#3F2A17] !text-[14px] !lg:text-[14px] !xl:text-[16px] ">
-                  Flat No. 3B, Sunrise Residency
-                  Rajendra Path, Civil Lines
+                  Flat No. 3B, Sunrises Residency
+                  shipra Path,
                   Jaipur, Rajasthan – 302001
                   India
                 </span>
