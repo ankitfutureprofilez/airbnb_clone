@@ -16,7 +16,7 @@ export default function index() {
 
 
   const hcaptchaRef = useRef(null);
-  
+
   const executeCaptcha = (e) => {
     e.preventDefault();
     hcaptchaRef.current.execute();
@@ -47,7 +47,7 @@ export default function index() {
       email: formData?.email,
       message: formData?.message,
     });
-    
+
     response
       .then((res) => {
         if (res && res?.data && res?.data?.status) {
@@ -141,13 +141,13 @@ export default function index() {
             </div>
             <div className="md:w-6/12 w-full px-0 md:px-6">
               <div>
-                <h3 className="md:text-[24px] text-[20px] text-[#3F2A17] mb-[20px] text-[#000000]">Tenx Management</h3>
+                <h3 className="md:text-[24px] text-[20px] text-[#3F2A17] mb-[20px] text-[#000000]">Airbnb Management</h3>
                 <p className="items-center text-[16px] items-start flex text-[#000000] mb-[10px] max-w-xs">
                   {/* <svg  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z"></path>
                   </svg> */}
                   <MdOutlinePhone className="inline-block align-middle" size={18} color={"#3F2A17"} />
-                  <p className="ps-2">9521410122</p>
+                  <p className="ps-2">9990009991</p>
 
                 </p>
                 <p className="text-[16px] items-start flex text-[#000000] mb-[10px] max-w-xs">
@@ -155,7 +155,10 @@ export default function index() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
                   </svg>
                   <p className="ps-2">
-                    D-105, Golden Oak II, Devi Marg, Near Station Road, Bani Park, Jaipur 302019
+                    Flat No. 3B, Sunrises Residency
+                    shipra Path,
+                    Jaipur, Rajasthan – 302001
+                    India
                   </p>
                 </p>
               </div>
@@ -246,11 +249,11 @@ export default function index() {
                     onChange={handleChange}
                     className="sm:p-[16px] p-[12px] mt-[10px] rounded-3xl min-h-15 w-full"
                     required
-                    rows={4} 
+                    rows={4}
                   />
                 </div>
                 {/* {formData?.message.length > 1 && */}
-                      <HCaptcha ref={hcaptchaRef} sitekey={CAPUTRE_KEY} data-theme="light" size="invisible" onVerify={onVerify} required />
+                <HCaptcha ref={hcaptchaRef} sitekey={CAPUTRE_KEY} data-theme="light" size="invisible" onVerify={onVerify} required />
 
                 <div className="flex items-center justify-center h-full">
                   <button className="hover:bg-[#fff] border border-[#efa3a3] bg-[#efa3a3] text-[#fff] hover:text-[#efa3a3] btn w-7/12 !py-2 lg:!py-3" disabled={loading}>
