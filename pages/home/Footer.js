@@ -1,10 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { FaFacebook, FaInstagram } from "react-icons/fa6";
-import { MdOutlineMail } from "react-icons/md";
 import { MdOutlinePhone } from "react-icons/md";
 import { TfiEmail } from "react-icons/tfi";
-import { MdOutlineLocationOn } from "react-icons/md";
 
 export default function Footer() {
   const [isMobile, setIsMobile] = useState(false);
