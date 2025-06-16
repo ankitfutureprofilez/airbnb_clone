@@ -1,6 +1,6 @@
 {
-    "name": "Quaint Spaces Jaipur",
-    "short_name": "QS",
+    "name": "Airbnb Clone Jaipur",
+    "short_name": "AC",
     "description": "A web app for all your property bookings",
     "start_url": "/",
     "display": "standalone",

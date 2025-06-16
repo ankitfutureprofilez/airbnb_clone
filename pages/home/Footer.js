@@ -161,19 +161,19 @@ export default function Footer() {
                 <div className="w-[80px] h-[2px] mx-auto xl:mx-[0] bg-[#efa3a3] mb-[15px]"></div>
                 <div className="flex flex-col">
                   <a
-                    href="mailto:info@quaintspaces.in"
+                    href="mailto:info@airbnbclone.in"
                     target="_blank"
                     className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] flex justify-center xl:justify-start"
                   >
                     <TfiEmail size={18} color={"#3F2A17"} className="mt-1" />
                     <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px]  ml-2">
-                      : info@quaintspaces.in
+                      : info@airbnbclone.in
                     </span>
                   </a>
                   <div className="flex mt-2 justify-center xl:justify-start">
                     <a
                       className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] flex justify-center md:justify-start"
-                      href="tel:+919521410122"
+                      href="tel:+919988599999"
                     >
                       <MdOutlinePhone
                         size={20}
@@ -181,16 +181,16 @@ export default function Footer() {
                         className="mt-1"
                       />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px]  ml-2">
-                        : +91 9521410122
+                        : +91 9988599999
                       </span>
                     </a>{" "}
                     &nbsp;/
                     <a
                       className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] "
-                      href="tel:+919314022666"
+                      href="tel:+919988547120"
                     >
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px]  ml-2">
-                        +91 9314022666
+                        +91 9988547120
                       </span>
                     </a>
                   </div>
@@ -231,26 +231,26 @@ export default function Footer() {
                 <div className="w-[80px] h-[2px] mx-auto xl:mx-[0] bg-[#efa3a3] mb-[15px]"></div>
                 <div className="">
                   <Link
-                    href="https://www.facebook.com/share/64gvciqN2UNPMx6V/?mibextid=LQQJ4d"
+                    href="https://www.facebook.com/"
                     target="_blank"
                   >
                     <div className="flex justify-center xl:justify-start">
                       <FaFacebook color={"#3F2A17"} size={24} />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] capitalize ml-2">
-                        : Quaint Spaces
+                        : Airbnb Clone
                       </span>
                     </div>
                   </Link>
                 </div>
                 <div className="mt-2">
                   <Link
-                    href="https://www.instagram.com/quaintspacesjaipur/"
+                    href="https://www.instagram.com/"
                     target="_blank"
                   >
                     <div className="flex justify-center xl:justify-start">
                       <FaInstagram color={"#3F2A17"} size={24} />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] ml-2">
-                        : @quaintspacesjaipur
+                        : @airbnbclone
                       </span>
                     </div>
                   </Link>
@@ -260,11 +260,13 @@ export default function Footer() {
 
             <div className="text-center copy-right">
               {/* Copyright Notice */}
-              <span>&copy; Quaint Spaces Jaipur, 2024</span>
+              <span>&copy; Airbnb Clone Jaipur, 2024</span>
               <div className="justify-center flex">
                 <span className="text-[#3F2A17] !text-[14px] !lg:text-[14px] !xl:text-[16px] ">
-                  D-105, Golden Oak, Devi Marg, Bani Park, Jaipur, Rajasthan
-                  302016
+                  Flat No. 3B, Sunrise Residency
+                  Rajendra Path, Civil Lines
+                  Jaipur, Rajasthan – 302001
+                  India
                 </span>
               </div>
             </div>

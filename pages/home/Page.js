@@ -26,7 +26,7 @@ export default function MainPage() {
     <Layout>
       <div>
         <Head>
-          <title>Quaint Spaces</title>
+          <title>Airbnb Clone | Best Rental Homes</title>
         </Head>
         <PwaFooter />
         <HERO />

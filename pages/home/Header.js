@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import logo from "../../public/images/Logo.png";
+import logo from "../../public/images/airbnb-logo.png";
 import LocalToken from "../../hooks/LocalToken";
 import { useRouter } from "next/router";
 import { Context } from "../_app";
@@ -17,12 +17,7 @@ import { IoTimerOutline } from "react-icons/io5";
 import { IoMdSettings } from "react-icons/io";
 import { MdOutlineSettings } from "react-icons/md";
 import { MdOutlineAvTimer } from "react-icons/md";
-
 import { MdOutlineSecurity } from "react-icons/md";
-
-
-
-
 
 export default function Header() {
   const router = useRouter();
