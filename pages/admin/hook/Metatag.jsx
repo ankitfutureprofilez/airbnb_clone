@@ -4,11 +4,11 @@ const Metatag = () => {
         <Head>
         <title>QS Admin </title>
         <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
-        <meta name="description" content="QS  Admin Jaipur " key="Quant Stay Jaipur  " />
-        <meta property="og:title" content="Quant Stay  Admin Jaipur " />
+        <meta name="description" content="QS  Admin Jaipur " key="Airbnb clone Jaipur  " />
+        <meta property="og:title" content="Airbnb clone  Admin Jaipur " />
         <meta
           property="og:description"
-          content="Quant Stay Admin ,QS ADMIN "
+          content="Airbnb clone Admin ,QS ADMIN "
         />
         <meta
           property="og:image"

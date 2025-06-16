@@ -57,12 +57,12 @@ export default function Login() {
   return (
     <>
       <Head>
-        <title>QS Admin Login </title>
-        <meta name="description" content="Quant Stay Admin Login " key="Quant Stay Admin " />
-        <meta property="og:title" content="Quant Stay Admin Login " />
+        <title>AR Admin Login </title>
+        <meta name="description" content="Airbnb clone Admin Login " key="Airbnb clone Admin " />
+        <meta property="og:title" content="Airbnb clone Admin Login " />
         <meta
           property="og:description"
-          content="Quant Stay  Admin Login"
+          content="Airbnb clone  Admin Login"
         />
         <meta
           property="og:image"
