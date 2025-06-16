@@ -24,7 +24,7 @@ export default function HERO() {
         <SwiperSlide>
           <div key={`image-banner-4`} className="relative w-full lg:h-[670px] md:h-[550px] h-[450px]">
             <Image
-              src={'/images/banner/Banner91.jpg'}
+              src={'/images/banner/Banner33.jpg'}
 
               alt={`Banner 4`} className="w-full h-full "
               layout="fill"
@@ -46,7 +46,7 @@ export default function HERO() {
         <SwiperSlide>
           <div key={`image-banner-2`} className="relative w-full lg:h-[670px] md:h-[550px] h-[450px] ">
             <Image
-              src={'/images/banner/Banner91.jpg'}
+              src={'/images/banner/Banner33.jpg'}
 
               alt={`Banner 4`} className="w-full h-full "
               layout="fill"
