@@ -73,7 +73,6 @@ export default function Property(props) {
     custom_link,
   } = p ? p : {};
 
-  console.log("p", p)
 
   const [Bathrooms, setBathrooms] = useState(bathrooms || 0.5);
   const [pets, setPets] = useState(no_of_pet_allowed || 1);
@@ -205,14 +204,11 @@ export default function Property(props) {
   const [step, setStep] = useState(
     step_completed === 11 ? 1 : step_completed || 0
   );
-  console.log("step", step)
 
   const [Loading, setLoading] = useState(false);
   const [PType, setPType] = useState(properties_type || "flat");
   const lstring = location ? JSON.parse(location.replace('/\\"/g', '"')) : null;
   const l = JSON.parse(lstring);
-  console.log("lstring", lstring);
-  console.log("l", l);
 
   const [address, setAddress] = useState({
     street_address: l && l.street_address ? l.street_address : "",

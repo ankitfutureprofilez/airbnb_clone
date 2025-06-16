@@ -174,12 +174,9 @@ export default function Edit() {
     extra_guest: ""
   });
 
-  console.log("location", record?.data?.location)
   const lstring = record?.data?.location ? JSON.parse(record?.data?.location?.replace('/\\/g', '"')) : null;
-  console.log("lstring", lstring)
 
   const l = JSON.parse(lstring);
-  console.log("l", l)
 
 
   const [address, setAddress] = useState({
