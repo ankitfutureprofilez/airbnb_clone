@@ -4,8 +4,8 @@ import Image from "next/image";
 import "aos/dist/aos.css"; // You can also use <link> for styles
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Luxury1 from "../../public/images/Book.jpg";
-import Luxury2 from "../../public/images/Book1.jpg";
+import Luxury1 from "../../public/images/Luxury1.jpg";
+import Luxury2 from "../../public/images/Luxury2.jpg";
 import Luxury3 from "../../public/images/Luxury3.jpg";
 
 export default function LuxuryStay() {
