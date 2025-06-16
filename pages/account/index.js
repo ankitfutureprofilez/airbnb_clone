@@ -22,7 +22,7 @@ export default function Index() {
   return (
     <AuthLayout>
       <Head>
-        <title>My Account - Quaint Spaces Jaipur</title>
+        <title>My Account - Airbnb Clone  Jaipur</title>
       </Head>
 
       <div className="container mx-auto account-btn ">

@@ -403,7 +403,7 @@ const Book = () => {
     <AuthLayout>
       <div className="container" >
         <Head>
-          <title>Confirm & Pay - Quaint Spaces Jaipur</title>
+          <title>Confirm & Pay - Airbnb Clone  Jaipur</title>
         </Head>
 
         {detailsLoading ?

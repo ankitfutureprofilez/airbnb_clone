@@ -130,7 +130,7 @@ export default function Signup() {
               <div className="formbgcolor bg-[#0003] h-[100%]"></div>
               <div className="max-h-[90vh]  overflow-y-auto">
                 <div className="quainttay">
-                  <h2>Welcome to Quaint Spaces Jaipur </h2>
+                  <h2>Welcome to Airbnb Clone  Jaipur </h2>
                   <h3 className="text-[#fff]">
                     Already have an account? <Link
                       className="underline"

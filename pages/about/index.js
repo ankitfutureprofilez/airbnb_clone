@@ -78,7 +78,7 @@ export default function index() {
   return (
     <Layout>
       <Head>
-        <title>About Us - Quaint Spaces Jaipur</title>
+        <title>About Us - Airbnb Clone  Jaipur</title>
       </Head>
       {/* Hero sec component */}
       <div className="bg-cover bg-no-repeat bg-center contact-about" style={{ backgroundImage: `url(/images/banner/Banner1.JPG)` }} >

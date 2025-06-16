@@ -85,7 +85,7 @@ function Sidebar({isMobileSidebarOpen}) {
             src={RoundLogo}
             blurDataURL={`${RoundLogo}?q=1`}
             placeholder="blur"
-            alt="Quaint Spaces Logo"
+            alt="Airbnb Clone  Logo"
           />
           <div>
             <h1 className="text-sm font-bold text-gray-800">Admin</h1>

@@ -7,7 +7,7 @@ export default function index() {
   return (
     <div>
       <Head>
-          <title>Sign up - Quaint Spaces Jaipur</title>
+          <title>Sign up - Airbnb Clone  Jaipur</title>
         </Head>
       <Signuppop />
       <CheckAuth />

@@ -62,7 +62,7 @@ const Listing = () => {
         <Head>
           <title>
             House rent in {record?.loading ? "..." : record?.data?.name} -
-            Quaint Spaces Jaipur
+            Airbnb Clone  Jaipur
           </title>
         </Head>
         <SingleListingBody loading={loading} listing={record} />

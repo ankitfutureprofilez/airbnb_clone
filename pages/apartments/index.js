@@ -25,7 +25,7 @@ export default function Index() {
     return (
       <div className="relative inline-block w-full sm:w-auto max-w-[50%] text-left sm:text-center">
       <Head>
-        <title>Apartments | Best Properties in Town - Quaint Spaces Jaipur</title>
+        <title>Apartments | Best Properties in Town - Airbnb Clone  Jaipur</title>
       </Head>
       <div>
         <span className="rounded-md shadow-sm">

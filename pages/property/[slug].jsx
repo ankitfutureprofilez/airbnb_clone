@@ -50,11 +50,11 @@ const Listing = () => {
         <Head>
           {record?.data?.name ? 
             <title>
-            House rent in {record?.data?.name || ""} | Quaint Spaces Jaipur
+            House rent in {record?.data?.name || ""} | Airbnb Clone  Jaipur
           </title>
           :
           <title>
-            House rent Quaint Spaces Jaipur
+            House rent Airbnb Clone  Jaipur
           </title>
           }
           

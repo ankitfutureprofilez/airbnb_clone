@@ -383,7 +383,7 @@ export default function Index() {
   return (
     <AuthLayout>
       <Head>
-        <title>My Booking - Quaint Spaces </title>
+        <title>My Booking - Airbnb Clone  </title>
       </Head>
       <div className="pt-4 sm:pt-8 md:pt-12   pb-0 sm:pb-4 md:pb-8">
       <div className="container mx-auto min-h-screen">

@@ -101,7 +101,7 @@ export default function Footer() {
                     <div className="flex justify-center xl:justify-start">
                       <FaFacebook color={"#3F2A17"} size={24} />
                       <span className="text-[#3F2A17] text-[14px] lg:text-[14px] xl:text-[16px] capitalize ml-2">
-                        : Quaint Spaces
+                        : Airbnb Clone 
                       </span>
                     </div>
                   </a>
@@ -139,7 +139,7 @@ export default function Footer() {
 
             <div className="text-center copy-right">
               {/* Copyright Notice */}
-              <span>&copy; Quaint Spaces Jaipur, 2024</span>
+              <span>&copy; Airbnb Clone  Jaipur, 2024</span>
               <div className="justify-center flex">
                 <span className="text-[#3F2A17] !text-[10px] !lg:text-[14px] !xl:text-[16px] ">
                   D-105, Golden Oak, Devi Marg, Bani Park, Jaipur, Rajasthan

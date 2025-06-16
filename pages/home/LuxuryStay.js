@@ -31,7 +31,7 @@ export default function LuxuryStay() {
               <div className="w-1/2 max-w-[215px] justify-center pr-4 " >
                 <Image
                   src={Luxury1}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury1}?q=1`}
                   placeholder="blur"
@@ -40,7 +40,7 @@ export default function LuxuryStay() {
                 />
                 <Image
                   src={Luxury3}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury1}?q=1`}
                   placeholder="blur"
@@ -53,7 +53,7 @@ export default function LuxuryStay() {
                 <h1 className="ml-2 text-center">Opulent</h1>
                 <Image
                   src={Luxury2}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury1}?q=1`}
                   placeholder="blur"
@@ -69,7 +69,7 @@ export default function LuxuryStay() {
               tailor your stay to your preferences, ensuring a memorable and unique
               experience. Whether you’re sipping morning coffee or relaxing in the
               tranquil ambience of your private space, you’ll find every moment here
-              unique and unforgettable. Quaint Spaces is sure to be your Home Away
+              unique and unforgettable. Airbnb Clone  is sure to be your Home Away
               from Home.
             </p>
           </div>
@@ -82,7 +82,7 @@ export default function LuxuryStay() {
                 <div className="img-box" data-aos="fade-right">
                 <Image
                   src={Luxury1}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury1}?q=1`}
                   placeholder="blur"
@@ -96,7 +96,7 @@ export default function LuxuryStay() {
               >
                 <Image
                   src={Luxury2}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury2}?q=1`}
                   placeholder="blur"
@@ -105,7 +105,7 @@ export default function LuxuryStay() {
               <div className="img-box" data-aos="fade-left">
                 <Image
                   src={Luxury3}
-                  alt="Quaint Spaces Jaipur"
+                  alt="Airbnb Clone  Jaipur"
                   priority="true"
                   blurDataURL={`${Luxury3}?q=1`}
                   placeholder="blur"
@@ -119,7 +119,7 @@ export default function LuxuryStay() {
               tailor your stay to your preferences, ensuring a memorable and unique
               experience. Whether you’re sipping morning coffee or relaxing in the
               tranquil ambience of your private space, you’ll find every moment here
-              unique and unforgettable. Quaint Spaces is sure to be your Home Away
+              unique and unforgettable. Airbnb Clone  is sure to be your Home Away
               from Home.
             </p>
           </div>

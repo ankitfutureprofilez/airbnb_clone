@@ -117,7 +117,7 @@ export default function Login() {
               </div>
             </form>
             <div className="pt-5 text-center text-black-400 text-xs">
-            &copy; Quaint Spaces Jaipur, 2024
+            &copy; Airbnb Clone  Jaipur, 2024
             </div>
           </div>
         </div>

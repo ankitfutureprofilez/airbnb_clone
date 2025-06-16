@@ -46,7 +46,7 @@ const ReActive = () => {
     <>
       <Head>
         <title>
-          Quaint Spaces Jaipur
+          Airbnb Clone  Jaipur
         </title>
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4">

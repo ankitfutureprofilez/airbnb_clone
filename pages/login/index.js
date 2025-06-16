@@ -10,7 +10,7 @@ export default function Login() {
   return (
     <>
       <Head>
-        <title>Login - Quaint Spaces Jaipur</title>
+        <title>Login - Airbnb Clone  Jaipur</title>
       </Head>
       <CheckAuth />
       <div className="h-screen sm:min-h-screen bg-cover overflow-auto sm:max-h-[100vh]">
@@ -61,7 +61,7 @@ export default function Login() {
               <div className=" flex items-center signup-tab-sec">
                 <div className="pt-[3vh] md:pt-0 left-logo-login w-6/12 px-3">
                   <Link href="/" className="cursor-pointer">
-                    <Image src={logologin} alt="Quaint Spaces Jaipur logo" />
+                    <Image src={logologin} alt="Airbnb Clone  Jaipur logo" />
                   </Link>
                   <p>
                     Indulge in the finest and most charming accommodation in Jaipur!

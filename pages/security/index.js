@@ -93,7 +93,7 @@ export default function index() {
   return (
     <AuthLayout>
       <Head>
-        <title>Security - Quaint Spaces Jaipur</title>
+        <title>Security - Airbnb Clone  Jaipur</title>
       </Head>
       <div className="py-4 sm:py-8 md:py-12">
         <div className="container mx-auto">

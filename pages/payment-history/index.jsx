@@ -234,7 +234,7 @@ export default function index() {
         <AuthLayout>
             <Head>
                 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-                <title>Payment History - Quaint Spaces Jaipur</title>
+                <title>Payment History - Airbnb Clone  Jaipur</title>
             </Head>
 
             <div className="container mx-auto">
