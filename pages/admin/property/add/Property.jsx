@@ -512,7 +512,7 @@ export default function Property(props) {
       });
   };
 
-  const baseurl = "https://www.quaintspaces.in/properties/";
+  const baseurl = "https://airbnb-vhwq.vercel.app/properties/";
   const fulllink = baseurl + item?.customLink;
 
   const prevStep = () => setStep((prev) => prev - 1);
