@@ -49,7 +49,6 @@ export default function HERO() {
               alt={`Banner 4`} className="w-full h-full "
               layout="fill"
               objectFit="cover" />
-
           </div>
         </SwiperSlide>
         <SwiperSlide>
