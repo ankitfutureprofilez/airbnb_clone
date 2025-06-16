@@ -55,7 +55,7 @@ export default function HERO() {
         <SwiperSlide>
           <div key={`image-banner-3`} className="relative w-full lg:h-[670px] md:h-[550px] h-[450px]">
             <Image
-              src={'/images/banner/airbnb-home.jfif'}
+              src={'/images/banner/banner7.jpg'}
               alt={`Banner 4`} className="w-full h-full"
               layout="fill"
               objectFit="cover" />
